@@ -10,7 +10,7 @@ module.exports = {
   mode: 'development',
 
   // 指定入口文件
-  entry: "./chapter01/part03/src/index.ts",
+  entry: "./chapter02/part01/src/index.ts",
 
   // 指定打包文件所在目录
   output: {
